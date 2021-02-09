@@ -3,10 +3,11 @@ It is project for formatting TextField/EditText. The react component that can fo
 
 It is able to format any number formatting. 
 
-![Android Screenshot](https://raw.githubusercontent.com/YadhuEkambaran/Field-Formatter-React-Native/main/Android%20Screenshot.PNG)
-![iOS Screenshot](https://raw.githubusercontent.com/YadhuEkambaran/Field-Formatter-React-Native/main/IosScreenshot.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YadhuEkambaran/Field-Formatter-React-Native/main/Android%20Screenshot.PNG" width="350" alt="Android Screenshot">
+ <img src="https://raw.githubusercontent.com/YadhuEkambaran/Field-Formatter-React-Native/main/IosScreenshot.jpg" width="350" alt="iOS Screenshot">
+</p>
 
- and specify the digits to be allowed in the keyboard through *digits* property
 For specifiing pattern
 ```
 pattern={'#### #### #### ####'}
